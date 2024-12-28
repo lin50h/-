@@ -1,0 +1,3 @@
+[submodule "system_architect"]
+	path = system_architect
+	url = https://gitee.com/zaonai/system_architect.git
